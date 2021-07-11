@@ -1,15 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Hugo Theme Basic</title>
+    <title>Categories on saffron huang</title>
     <link>https://saffronh.github.io/categories/</link>
-    <description>Recent content in Categories on Hugo Theme Basic</description>
+    <description>Recent content in Categories on saffron huang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2016-19 &lt;a href=&#39;https://github.com/siegerts/hugo-theme-basic&#39;&gt;Hugo Theme Basic&lt;/a&gt;. Made by &lt;a href=&#39;https://twitter.com/siegerts&#39;&gt;@siegerts&lt;/a&gt;.</copyright>
+    <copyright>© 2016-19 &lt;a href=&#39;https://github.com/siegerts/hugo-theme-basic&#39;&gt;Hugo Theme Basic&lt;/a&gt;.</copyright>
+    <lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate>
     
     <atom:link href="https://saffronh.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>musings</title>
+      <link>https://saffronh.github.io/categories/musings/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saffronh.github.io/categories/musings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://saffronh.github.io/categories/development/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://saffronh.github.io/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>travel</title>
+      <link>https://saffronh.github.io/categories/travel/</link>
+      <pubDate>Tue, 20 Jun 2017 23:56:59 -0700</pubDate>
+      
+      <guid>https://saffronh.github.io/categories/travel/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
