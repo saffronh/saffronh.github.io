@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on saffron huang</title>
-    <link>https://saffronh.github.io/categories/development/</link>
+    <link>https://saffronhuang.com/categories/development/</link>
     <description>Recent content in Development on saffron huang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2016-19 &lt;a href=&#39;https://github.com/siegerts/hugo-theme-basic&#39;&gt;Hugo Theme Basic&lt;/a&gt;.</copyright>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-    <atom:link href="https://saffronh.github.io/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://saffronhuang.com/categories/development/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Title</title>
-      <link>https://saffronh.github.io/post/title/</link>
+      <link>https://saffronhuang.com/post/title/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://saffronh.github.io/post/title/</guid>
+      <guid>https://saffronhuang.com/post/title/</guid>
       <description></description>
     </item>
     
